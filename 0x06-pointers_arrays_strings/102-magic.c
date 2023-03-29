@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #int main(void)
 {
 int n;
@@ -14,6 +15,7 @@ p = &n;
 * - do not modify p
 * - you have only one statement
 * - you are not allowed to code anything outside this line of  code
+* - Return: void
 */
 *(p + 5) = 98;
 /* ...so that this prints 98\n */
