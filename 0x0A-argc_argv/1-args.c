@@ -11,8 +11,6 @@
 
 int main(int argc, char *argv[])
 {
-int num_args = argc - 1;
-
 (void) argv; /*Ignore argv*/
 	printf("%d\n", argc - 1);
 
